@@ -1,4 +1,4 @@
-# Unitary Fund Research
+# Unitary Foundation Research
 A repository for archived research code and tutorials on open-source quantum software.
 
 - [Noise-extended probabilistic error cancellation (NEPEC)](/nepec/). Phys. Rev. A 104, 052607 (2021), arXiv:2108.02237.
