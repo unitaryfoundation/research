@@ -18,7 +18,7 @@ emphasize that the performance of quantum error mitigation is closely tied to
 the performance of the underlying computer.
 
 ### Notebooks
-1. [Testing PEC and ZNE on noisy quantum computers](https://github.com/unitaryfund/research/blob/master/qem-on-hardware/pec_and_zne.ipynb)
+1. [Testing PEC and ZNE on noisy quantum computers](https://github.com/unitaryfoundation/research/blob/master/qem-on-hardware/pec_and_zne.ipynb)
 
 ### Experiment data
 
@@ -92,6 +92,6 @@ The code is written in Python. Notebooks can be visualized on GitHub (without
 execution) by just clicking on their file names.  Jupyter Notebook or JupyterLab
 should be [installed](https://jupyter.org/install) to execute the notebooks in
 your local machine.  The quantum error mitigation library
-[Mitiq](https://github.com/unitaryfund/mitiq) is required. Please check all the
+[Mitiq](https://github.com/unitaryfoundation/mitiq) is required. Please check all the
 other the `import` statements in each specific notebook for additional
 requirements.

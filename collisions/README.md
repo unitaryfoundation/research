@@ -9,7 +9,7 @@ We also propose to count the number of  cross-collisions between two independent
 Finally, we quantify the sampling cost of quantum collision experiments. We find that the sampling cost for running a collision volume test on state-of-the-art processors (e.g.~20 effective clean qubits) is quite small: less than $10^5$ shots. For large-scale experiments in the quantum supremacy regime the required number of shots for observing a quantum signal in the observed number of collisions is currently infeasible ($>10^{12}$), but not completely out of reach for near-future technology.
 
 ### Notebooks
-1. [Counting collisions in random circuit sampling for benchmarking quantum computers](https://github.com/unitaryfund/research/blob/master/collisions/collisions.ipynb)
+1. [Counting collisions in random circuit sampling for benchmarking quantum computers](https://github.com/unitaryfoundation/research/blob/master/collisions/collisions.ipynb)
 
 ### How to use
 The code is written in Python and is organized in a self-contained Jupyter notebook.
