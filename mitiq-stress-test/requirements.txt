@@ -1,0 +1,4 @@
+mitiq[qiskit]
+qiskit-ibm-runtime
+matplotlib
+numpy
