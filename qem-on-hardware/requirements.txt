@@ -1,0 +1,11 @@
+cirq
+networkx
+numpy
+pandas
+qiskit
+qiskit-aer
+qiskit-ibm-provider
+qiskit-experiments
+mitiq
+matplotlib
+ply
