@@ -6,9 +6,11 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=6.30.1",
+    "jupyter>=1.1.1",
     "pylatexenc>=2.10",
     "python-dotenv>=1.1.1",
     "qiskit<2.0.0",
+    "qiskit-aer>=0.17.1",
     "qiskit-ibm-runtime>=0.41.0",
     "qiskit-ionq>=0.5.12",
     "ucc>=0.4.8",
